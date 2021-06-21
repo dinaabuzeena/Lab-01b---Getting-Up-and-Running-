@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+title{
+    background-color: salmon;
+    text-align: center;
+ margin-top: 20 px;
+}
+
+footer{
+    text-align: center;
+     color: rgb(red, green, rgb(24, 24, 88));
+    padding-top: 5 px;
+}
