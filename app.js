@@ -1,7 +1,7 @@
-let name ;
-name = prompt("whats your name?")
+let userName ;
+userName = prompt("whats your name?")
 alert("wlecome" + name)
-
+console.log
 
 let age ;
 age = prompt("how old are you?")
